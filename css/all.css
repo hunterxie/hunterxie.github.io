@@ -182,8 +182,8 @@ b, strong {
 	font-style: normal;
 	font-weight: 700;
 }
-h1,
 h2,
+h1,
 h3,
 h4,
 h5,
@@ -201,6 +201,7 @@ h2 {
 	font-size: 22px;
 	line-height: 30px;
 	letter-spacing: 1px;
+	color: #ffffff;
 }
 @media (max-width:768px) {
 	h2 {
